@@ -1,0 +1,1 @@
+POINTS_DEDUCTIBLE: int = 10

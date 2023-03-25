@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa38152d-4ea7-4a42-9405-36dd0d14aaa2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/10 tema/_10_OOP/_10_OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/11 tema/.idea/11 tema.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/11 tema/MusicBrowser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/11 tema/_11_CreateDB/MusicBrowser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/11 tema/_11_CreateDB/Music_project/MusicBrowser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/11 tema/_11_CreateDB/RollingBack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/11 tema/_11_CreateDB/_11_CreateDB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/11 tema/music.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/_12_tema.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/challenge2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Aerosmith/Get A Grip/6 - Flesh.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Aerosmith/Just Push Play/8 - Luv Lies.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Aerosmith/Permanent Vacation/11 - I'm Down.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Alice Cooper/Hell Is/4 - Bed of Nails.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Alice Cooper/Welcome To My Nightmare/9 - Steven.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Animals/The Most Of The Animals/3 - Roadrunner.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Axel Rudi Pell/Magic/6 - The Clown Is Dead.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Axel Rudi Pell/Magic/8 - Light In The Sky.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Axel Rudi Pell/The Ballads IV/11 - No Chance To Live.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Black Sabbath/Black Sabbath Vol.4/4 - FX.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Black Sabbath/Master Of Reality/3 - Embryo.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Black Sabbath/The Eternal Idol/8 - Lost Forever.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Blackbeard's Tea Party/heavens to betsy/6 - Hummeabar.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Blaster Bates/Laughter With A Bang/6 - Oulton Park_ The Naming Of _Knicker Brook_.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Blue Öyster Cult/Blue Öyster Cult/9 - Workshop Of The Telescopes.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Bob Marley/The Collection Volume One/13 - Lively Up Yourself.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Bob Marley/The Collection Volume One/3 - Kaya.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Bonzo Dog Band/Cornology/63 - Straight From The Heart.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Camel/Mirage/5 - Lady Fantasy.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Carl Orff/Carmina Burana/20 - XX Ceni veni venias (Come Come _).emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Chemical Brothers/Push The Button/6 - The The Big Jump.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Chumbawamba/Showbusiness!/10 - Mouthful.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Chumbawamba/Showbusiness!/7 - Morality.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Chumbawamba/Showbusiness!/9 - Stitch.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Deep Purple/Deep Purple/6 - Why Didn't Rosemary_ (1999 Digital Remaster).emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Deep Purple/Made In Europe/4 - You Fool No One.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Deep Purple/Who Do We Think We Are Remastered Edition/3 - Super Trouper.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Dire Straits/Communiqué/9 - Follow Me Home.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Doors/Best Of The Doors/1 - Riders On The Storm.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Dream Theater/Live Scenes From New York/21 - I. Erotomania.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Edvard Grieg/Peer Gynt Suite/13 - Rigaudon - Allegro con brio Aus Holbergs Zeit.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Edvard Grieg/Peer Gynt Suite/7 - Peer Gynts Heimkehr.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Eric Clapton/Backtrackin'/13 - Strange Brew.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Faith No More/Introduce Yourself/3 - Introduce Yourself.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Fleetwood Mac/The Best of/7 - Watch Out!.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Fleetwood Mac/The Dance/11 - My Little Demon.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Fleetwood Mac/The Dance/17 - Don't Stop.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Free/Molten Gold- The Anthology/25 - Heavy Load.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Free/Molten Gold- The Anthology/3 - Ride On Pony.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Hawkwind/25 Years On/10 - Death Trap (single mix).emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Hawkwind/Warrior On The Edge Of Time/1 - Assault &amp; Battery Part I.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Hawkwind/Warrior On The Edge Of Time/3 - The Wizard Blew His Horn.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Horslips/The Book Of Invasions/11 - King Of Morning Queen Of Day.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Horslips/The Man Who Built America/8 - Long Weekend.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Ian Gillan/Mercury High/25 - Hang Me Out To Dry.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Iron Maiden/Seventh Son Of A Seventh Son/2 - Infinite Dreams (1998 Digital Remaster).emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Iron Maiden/The Number of the Beast/1 - Invaders (1998 Digital Remaster).emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/J.J. Cale/Troubadour/2 - Travelin' light.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Jefferson Airplane/Surrealistic Pillow/6 - 3 5 Of A Mile In 10 Seconds.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Jefferson Starship/Dragon Fly/6 - Come To Life.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Jimi Hendrix/Excellence De Luxe/15 - She's A Fox.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Jimi Hendrix/Excellence De Luxe/8 - Room Full Of Mirrors (short version).emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Joe Bonamassa/Sloe Gin/10 - Richmond.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Jools Holland/Jack O The Green (Small World Big Band - Friends 3)/11 - Boys (with Ringo Starr).emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Jools Holland/Jack O The Green (Small World Big Band - Friends 3)/16 - Shutting The Doors (with Kirsty MacColl).emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Kate Bush/Hounds of Love/10 - Jig of Life.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Kate Bush/The Sensual World/3 - The Fog.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Kate Bush/The Sensual World/7 - Between a Man and a Woman.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Kevin Bloody Wilson/Kev's Kristmas Album/10 - Grandad's Finger.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Kevin Bloody Wilson/Kev's Kristmas Album/5 - Santa's ______' Roadies.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Kula Shaker/K/7 - Into The Deep.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Leaf Hound/Growers of Mushrooms/1 - Freelance Fiend.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Led Zeppelin/BBC Sessions/2 - I Can't Quit You Baby.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Led Zeppelin/BBC Sessions/20 - Stairway To Heaven.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Led Zeppelin/Coda/8 - Wearing And Tearing.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Led Zeppelin/Going To California/1 - Immigrant Song.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Led Zeppelin/Remasters/9 - Celebration Day.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Led Zeppelin/The Soundtrack from the film The Song Remains The Same/7 - Stairway To Heaven.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Man/Rhinos Winos and Lunatics/2 - The Thunder and Lightning Kid.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Marillion/Crash Course/5 - Hard As Love.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Meat Loaf/Bat Out Of Hell/8 - Boléro (Live Intro).emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Metallica/Master Of Puppets/6 - Leper Messiah.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Nazareth/Champions Of Rock/12 - Hair Of The Dog.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Ozric Tentacles/Strangeitude/1 - White Rhino Tea.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Pat Benatar/In The Heat of the Night/10 - So Sincere.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Pat Benatar/In The Heat of the Night/2 - I Need A Lover.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Patti Smith/Wave/4 - Hymn.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Pearl Jam/Rearviewmirror/24 - Who You Are.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Pink Floyd/Obscured By Clouds/7 - Childhood's End.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Pink Floyd/The Wall/3 - Another Brick In The Wall (Part 1).emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Pixies/Doolittle/14 - Silver.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Pixies/Surfer Rosa/1 - Bone Machine Remastered.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Pixies/Surfer Rosa/2 - Break My Body Remastered.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Prokofiev/Lietenant Kije Symphony 5/6 - Andante.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Queen/The Miracle/4 - I Want It All.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Richard Ashcroft/Keys To The World/6 - Sweet Brother Malcolm.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Rolling Stones/Forty Licks/20 - Let's Spend The Night Together (67).emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Ry Cooder/Crossroads/6 - Nitty Gritty Mississippi.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Seasick Steve/Walkin' Man The Best of Seasick Steve/20 - That's All.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Smetana/Ma Vlast/4 - From Bohemia's Woods and Fields - Polish National Radio Symphony Orchestra Antoni Wit.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Soundtracks/The Mask/4 - Bounce Around - Tony Toni Tone.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Split Whiskers/Breakfast in Denmark/7 - Rock Me Baby.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Status Quo/XS All Areas/21 - Anniversary Waltz Part 1.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Steely Dan/Showbiz Kids/10 - Rikki Don't Lose That Number.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Steely Dan/Showbiz Kids/3 - Reelin' In The Years.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Steve Hillage/Motivation Radio/2 - Motivation.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Steve Vai/Sex &amp; Religion/9 - Survive.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Terry Reid/Super Lungs/15 - Season Of The Witch (2004 Digital Remaster).emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/U2/18 Singles/19 - Window In The Skies.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/UFO/Phenomenon/1 - Oh My.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/UFO/Phenomenon/7 - Time On My Hands.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Van Halen/1984/4 - Top Jimmy.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Velvet Revolver/Libertad/3 - Get Out the Door.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Velvet Revolver/Libertad/7 - American Man.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Velvet Revolver/Libertad/9 - Just Sixteen.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Vladimir Vysotsky/Izbrannoye/12 - Beloe bezmolvie.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Vladimir Vysotsky/Izbrannoye/18 - Choloda, choloda.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Wishbone Ash/Wishbone Four/5 - Doctor.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/Yardbirds/The Very Best of the Yardbirds/5 - Evil Hearted You.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/12 tema/_12_tema/music/music/ZZ Top/Degüello/10 - Esther Be The One.emp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/13 tema/_13_tema/_13_tema.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/5 tema/untitled/junkebox_menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/5 tema/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/7 tema/_7_ Dictionaries_Sets/_7_ Dictionaries_Sets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/7 tema/_7_ Dictionaries_Sets/dict_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/8 tema/new/BinaryFiles/BinaryFiles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lerning Python/8 tema/new/_8_text_files/_8_text_files.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master Python 100/.idea/Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master Python 100/17 Section (OOP + game)/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master Python 100/17 Section (OOP + game)/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master Python 100/17 Section (OOP + game)/quiz_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master Python 100/28 Section (Pomodoro)/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Master Python 100/28 Section (Pomodoro)/tomato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pynative/Pynative/.idea/Pynative.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pynative/Pynative/Data Structure Exercise/.idea/Data Structure Exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pynative/Pynative/Date and Time Exercise/task_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pynative/Pynative/Date and Time Exercise/task_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pynative/Pynative/Dictionary Exercise/classes/tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pynative/Pynative/Functions Exercise/.idea/Functions Exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pynative/Pynative/Input and Output Exercise/.idea/Input and Output Exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pynative/Pynative/List Exercise/.idea/List Exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pynative/Pynative/Loop Exercise/.idea/Loop Exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pynative/Pynative/Python Object-Oriented Programming (OOP) Exercise Classes and Objects Exercises/.idea/Python Object-Oriented Programming (OOP) Exercise Classes and Objects Exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pynative/Pynative/String Exercise/.idea/String Exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pynative/Pynative/String Exercise/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/w3resources Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part2/.idea/Part2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part2/Part2/1 task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Part2/Part2/Part2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Class - Exercises, Practice, Solution/.idea/Python Class - Exercises, Practice, Solution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Class - Exercises, Practice, Solution/task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../www.my-courses.net/.idea/www.my-courses.net.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../www.my-courses.net/classes/exercise_47.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LrX0sfUPIAKmZM2Jea12xZjOyB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/garuda/Insync/zygimantuxd@gmail.com/Google Drive/Python programing learn/w3resources Python/List",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa38152d-4ea7-4a42-9405-36dd0d14aaa2" name="Changes" comment="" />
+      <created>1676629954649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676629954649</updated>
+    </task>
+    <servers />
+  </component>
+</project>

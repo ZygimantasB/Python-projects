@@ -1,0 +1,8 @@
+Sukurti programą, kuri:
+Sukurtų duomenų bazę
+Sukurtų lentelę paskaitos su stulpeliais pavadinimas, destytojas ir trukme
+Sukurtų tris paskaitas: ('Vadyba', 'Domantas', 40), ('Python', 'Donatas', 80) ir ('Java', 'Tomas', 80)
+Atspausdintų tik tas paskaitas, kurių trukmė didesnė už 50
+Atnaujintų paskaitos „Python“ pavadinimą į „Python programavimas“
+Ištrintų paskaitą, kurios dėstytojas – „Tomas“
+Atspausdintų visas paskaitas (visą lentelę)
