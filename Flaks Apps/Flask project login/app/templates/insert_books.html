@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+  <body>
+  <div class="insert__book">
+    <form action="{{ url_for('books.insert_books') }}" method="post">
+      {{ books_form.csrf_token }}
+      <div class="form-group">
+        <label>Book title</label>
+        {{ books_form.title(class='form-control') }}
+      </div>
+      <div class="form-group">
+        <label>Book description</label>
+        {{ books_form.description(class='form-control') }}
+      </div>
+      <div class="form-group">
+        <label>Book price</label>
+        {{ books_form.price(class='form-control') }}
+      </div>
+      <div class="form-group">
+        <label>Book quantity</label>
+        {{ books_form.quantity(class='form-control') }}
+      </div>
+      <div class="form-group">
+        <label>Publisher</label>
+        {{ books_form.publisher(class='form-control') }}
+        {% if error_message %}
+          <p class="text-danger">{{ error_message }}</p>
+        {% endif %}
+      </div>
+      <button type="submit" class="btn btn-primary">Save</button>
+    </form>
+  </div>
+  </body>
+
+{% endblock %}

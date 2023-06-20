@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+  <body class="show__books">
+  <div class="container">
+    <table class="table table-striped table-bordered mx-auto">
+      <thead class="thead-dark">
+      <tr>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        <th>Delete book</th>
+      </tr>
+      </thead>
+      <tbody>
+      {% for book in books %}
+      <tr>
+          <td>{{ book['title'] }}</td>
+          <td>{{ book['description' ]}}</td>
+          <td>{{ book['price'] }}</td>
+          <td>{{ book['quantity'] }}</td>
+          <td></td>
+        {% endfor %}
+      </tr>
+      </tbody>
+    </table>
+
+  </div>
+  </body>
+
+{% endblock %}
