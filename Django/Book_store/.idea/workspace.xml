@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9032ab07-4909-4a8d-ac89-550dbd3e798e" name="Changes" comment="Using many-to-many" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Freeze Requirements File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2OeHJpg5yGa7PHh6CehworzGRtB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "G:/Insync/GoogleDrive/Python programing learn/Python Django - The Practical Guide/Building_blog",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.tonybaloney.security.pycharm-security.settings.SecuritySettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Insync\GoogleDrive\Python programing learn\Python Django - The Practical Guide\Book_store\book_outlet\templates\book_outlet" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Book_store" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Book_store" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Book_store.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9032ab07-4909-4a8d-ac89-550dbd3e798e" name="Changes" comment="" />
+      <created>1681914058146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681914058146</updated>
+      <workItem from="1681914093243" duration="3911000" />
+      <workItem from="1681971233749" duration="1038000" />
+      <workItem from="1681991148636" duration="8087000" />
+      <workItem from="1682087712843" duration="4677000" />
+      <workItem from="1682151493363" duration="7555000" />
+    </task>
+    <task id="LOCAL-00001" summary="Creating a Django Model with Fields">
+      <created>1681914689303</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681914689303</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Creating a Django Model with Fields">
+      <created>1681914718921</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681914718921</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updating Models &amp; Migrations">
+      <created>1681916548547</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681916548547</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Preparing Templates">
+      <created>1681996793871</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681996793871</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Rendering Queried Data in the Template">
+      <created>1681997110350</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681997110350</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Rendering the Details Page">
+      <created>1681997983415</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681997983415</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Model URLs">
+      <created>1681999818712</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681999818712</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding a Slugfield &amp; Overwriting Save">
+      <created>1682000314526</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682000314527</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Using the Slug &amp; Updating Field Options">
+      <created>1682002158583</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682002158583</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Aggregation &amp; Ordering">
+      <created>1682089329252</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682089329252</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Configuring the Admin Settings">
+      <created>1682091009309</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682091009309</updated>
+    </task>
+    <task id="LOCAL-00012" summary="More Config Options">
+      <created>1682092097854</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1682092097854</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Adding a one-to-many Relation &amp; Migrations">
+      <created>1682153668809</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1682153668809</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Managing Relations in Admin">
+      <created>1682155167208</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1682155167208</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Adding a one-to-one Relation">
+      <created>1682155594788</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1682155594788</updated>
+    </task>
+    <task id="LOCAL-00016" summary="One-to-one &amp; Admin Config">
+      <created>1682156396176</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1682156396176</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Setting-up many-to-many">
+      <created>1682158806144</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1682158806144</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Using many-to-many">
+      <created>1682159970941</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1682159970941</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creating a Django Model with Fields" />
+    <MESSAGE value="Updating Models &amp; Migrations" />
+    <MESSAGE value="Preparing Templates" />
+    <MESSAGE value="Rendering Queried Data in the Template" />
+    <MESSAGE value="Rendering the Details Page" />
+    <MESSAGE value="Model URLs" />
+    <MESSAGE value="Adding a Slugfield &amp; Overwriting Save" />
+    <MESSAGE value="Using the Slug &amp; Updating Field Options" />
+    <MESSAGE value="Aggregation &amp; Ordering" />
+    <MESSAGE value="Configuring the Admin Settings" />
+    <MESSAGE value="More Config Options" />
+    <MESSAGE value="Adding a one-to-many Relation &amp; Migrations" />
+    <MESSAGE value="Managing Relations in Admin" />
+    <MESSAGE value="Adding a one-to-one Relation" />
+    <MESSAGE value="One-to-one &amp; Admin Config" />
+    <MESSAGE value="Setting-up many-to-many" />
+    <MESSAGE value="Using many-to-many" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using many-to-many" />
+  </component>
+</project>
