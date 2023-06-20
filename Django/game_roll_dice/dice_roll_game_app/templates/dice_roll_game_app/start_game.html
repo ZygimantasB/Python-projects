@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}🎲 Play {% endblock %}
+
+{% block content %}
+
+  <div>
+    <form action="" method="post">
+      {% csrf_token %}
+      <label for="user"></label>
+      <input type="submit" value="Roll the dice!">
+      
+
+
+    </form>
+  </div>
+
+{% endblock %}

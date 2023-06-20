@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}🎲 Play The Game{% endblock %}
+
+{% block content %}
+  <div class="container">
+    <h1>Dice Roll Game</h1>
+    <form method="post">
+      {% csrf_token %}
+      <div class="mb-3">
+        <label for="userInput" class="form-label">How many dices (1 - 5):</label>
+        <input type="text" class="form-control" id="userInput" name="user_input">
+        {% for number in "12345" %}
+          <div class="diceSidesInputs">
+            <label for="dice_sides_{{number}}">Number of sides for dice {{number}} (1 - 100):</label>
+            <input type="text" class="form-control" id="dice_sides_{{number}}" name="dice_sides_{{number}}">
+          </div>
+        {% endfor %}
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+    {% if history %}
+      <h2>Result</h2>
+      <p>You rolled {{ user_input }} dice.</p>
+      <p>Rolls:</p>
+      {% for roll in history %}
+        <p>{% for result in roll %}{{ result }}, {% endfor %}</p>
+      {% endfor %}
+    {% endif %}
+
+    {% if error_message %}
+      <div class="alert alert-danger" role="alert">
+        {{ error_message }}
+      </div>
+    {% endif %}
+  </div>
+{% endblock %}
